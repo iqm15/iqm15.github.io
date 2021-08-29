@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+I am a PhD student in statistics, since October 2020, at LPSM, Sorbonne Université, under the supervision of [Etienne Roquain](https://etienneroquain-81.webself.net/), Nataliya Sokolovska, and Tabea Rebafka. 
 
-You can use the [editor on GitHub](https://github.com/mcariane/mcariane.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+My research interests are about statistical learning/inference on graphs. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Research
+To come.
 
-### Markdown
+## Teaching
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 2021-2022
+- General math, third year, Earth Science (ST) speciality (exercice classes)
+- Probability and statistics, third year, Materials (MTX) specialty (course and exercice classes)
+- Probabilities, third year, Earth Science (ST) speciality (exercice classes)
 
-```markdown
-Syntax highlighted code block
+## Activities
+- Co-organizer of [Infomath](https://infomath.pages.math.cnrs.fr/) 
+- Co-organizer of the [PhD students seminar at LPSM](https://www.lpsm.paris/agenda/seminaires-gdt/gtt/) 
 
-# Header 1
-## Header 2
-### Header 3
+## Talks
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mcariane/mcariane.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
