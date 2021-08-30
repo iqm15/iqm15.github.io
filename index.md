@@ -2,7 +2,7 @@ I am a PhD student in statistics, since October 2020, at LPSM, Sorbonne Universi
 
 My research interests are about statistical learning/inference on graphs. 
 
-## Research
+## Publications
 To come.
 
 ## Teaching
@@ -18,3 +18,6 @@ To come.
 
 ## Talks
 November 2020, [*Journées EcoNet*](https://cmatias.perso.math.cnrs.fr/ANR_EcoNet.html)
+
+---
+Contact me at ariane.marandon-carlhian@upmc.fr
