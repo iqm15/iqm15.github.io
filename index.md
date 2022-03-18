@@ -12,11 +12,8 @@ To come.
 - Applied statistics, Polytech Sorbonne, fourth year, Materials (MTX) speciality (lectures and exercice classes)
 
 ## Activities
-- Co-organizer of [Infomath](https://infomath.pages.math.cnrs.fr/) 
-- Co-organizer of the [PhD students seminar at LPSM](https://www.lpsm.paris/agenda/seminaires-gdt/gtt/) 
+- Co-organizer of the [PhD students seminar at LPSM](https://www.lpsm.paris/agenda/seminaires-gdt/gtt/)
 
-## Talks
-November 2020, [*Journées EcoNet*](https://cmatias.perso.math.cnrs.fr/ANR_EcoNet.html), on *SBM inference with deep learning*
 
 ---
-Contact me at ariane.marandon-carlhian@sorbonne-universite.fr
+Contact me at ariane dot marandon-carlhian at sorbonne-universite dot fr
