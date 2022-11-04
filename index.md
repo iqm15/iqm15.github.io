@@ -34,7 +34,7 @@ For more information about my education you can find my complete cv [here].
 * Data science in Python (practical sessions) for first year bachelor students in maths.
 
 ## Activities
-* Member of the *[Young Group](https://www.sfds.asso.fr/fr/jeunes_statisticiens/468-les_jeunes_statisticiens/)* in the French Statistical Society (SFDS)
+* Member of the *[The Young Statisticians Group](https://www.sfds.asso.fr/fr/jeunes_statisticiens/468-les_jeunes_statisticiens/)* in the French Statistical Society (SFDS)
 
 ---
 Contact me at iqraa.meah@sorbonne-universite.fr
