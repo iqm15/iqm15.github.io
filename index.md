@@ -37,4 +37,4 @@ For more information about my education you can find my complete cv [here].
 * Member of the *[The Young Statisticians Group](https://www.sfds.asso.fr/fr/jeunes_statisticiens/468-les_jeunes_statisticiens/)* in the French Statistical Society (SFDS)
 
 ---
-Contact me at iqraa.meah@sorbonne-universite.fr
+Contact me at iqraa dot meah at sorbonne-universite dot fr
