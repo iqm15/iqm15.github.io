@@ -1,3 +1,26 @@
 title: Iqraa Meah
+email: iqraa.meah@sorbonne-universite.fr
 logo: assets/img/photo_1.jpg
 theme: jekyll-theme-minimal
+
+author:
+  # name   : "Iqraa Meah"
+  # avatar : "assets/images/moi_plage.png"
+  bio    : "PhD candidate in Statistics at Sorbonne Université."
+  location : "Paris, France"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:iqraa.meah[at]sorbonne-universite[dot]fr"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/iqm15"
+    # - label: "Google Scholar"
+    #   icon: "fas fa-fw fa-graduation-cap"
+    #   url: ""
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: ""
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: ""
