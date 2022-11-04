@@ -1,4 +1,4 @@
- Since January 2021, I am a PhD candidate in statistics at Sorbonne University (Paris), more specifically in the Probavility and Statistics Lab ([LPSM](https://www.lpsm.paris/)). I work under the supervision of [Etienne Roquain](https://etienneroquain-81.webself.net/) (LPSM) and Sebastian Döhler (Hochschule Darmstadt). 
+ Since January 2021, I am a PhD candidate in statistics at Sorbonne University (Paris), in the Probavility and Statistics Lab ([LPSM](https://www.lpsm.paris/)). I work under the supervision of [Etienne Roquain](https://etienneroquain-81.webself.net/) (LPSM) and Sebastian Döhler (Hochschule Darmstadt). 
 
 My current research interests are about mutliple testing in the context of discrete testing or online testing. 
 
@@ -7,17 +7,12 @@ For more information about my education you can find my complete cv [here].
 ## Publications
 
 ### Preprints
-
 * **Online multiple testing with super-uniformity reward **. Döhler, S. Meah, I. Roquain, E.  (2021)  
 [<i class="fas fa-file-pdf"></i> pdf](https://arxiv.org/abs/2110.01255){: .btn}  [<i class="fab fa-github"></i> code](https://github.com/iqm15/SUREOMT){: .btn}
 
 
 ## Talks
-### Upcoming
 
-
-
-### Past 
 * September 2022, Efficient statistical testing for high-dimensional model (FAST-BIG) workshop, *Inria, Paris*
 * August 2022, International Conference on Multiple Comparison Procedures, *Bremem, Germany*
 * June 2022, Journées des Statistiques, *Lyon, France*
@@ -28,19 +23,18 @@ For more information about my education you can find my complete cv [here].
 
 
 
-## Teaching
-## Teaching assistant 
+## Teaching duties
 
 ### Fall semester 2022 at Sorbonne Université
-* Statistics and linear models in R  (M1 ISUP, practical session).
-* Python for data science (L1, practical session).
+* Statistics and linear models in R (practical sessions) for first year master students in actuarial (M1 ISUP).
+* Data science in Python (practical sessions) for first year bachelor students in maths
 
 ### Fall semester 2021 at Sorbonne Université
-* Linear models (M1 ISUP, exercice classes).
-* Python for data science (L1, practical session).
+* Linear models (exercice class) for first year master students in actuarial (M1 ISUP).
+* Data science in Python (practical sessions) for first year bachelor students in maths.
 
 ## Activities
 * Member of the *[Young Group](https://www.sfds.asso.fr/fr/jeunes_statisticiens/468-les_jeunes_statisticiens/)* in the French Statistical Society (SFDS)
 
 ---
-Contact me at 
+Contact me at iqraa.meah@sorbonne-universite.fr
