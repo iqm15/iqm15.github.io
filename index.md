@@ -7,19 +7,19 @@ For more information about my education you can find my complete cv [here].
 ## Publications
 
 ### Preprints
-* **Online multiple testing with super-uniformity reward **. Döhler, S. Meah, I. Roquain, E.  (2021)  
-[<i class="fas fa-file-pdf"></i> pdf](https://arxiv.org/abs/2110.01255){: .btn}  [<i class="fab fa-github"></i> code](https://github.com/iqm15/SUREOMT){: .btn}
+* __Online multiple testing with super-uniformity reward__. Döhler, S. Meah, I. Roquain, E.  (2021)  
+[<i class="fas fa-file-pdf"></i> arXiv preprint](https://arxiv.org/abs/2110.01255){: .btn}  [<i class="fab fa-github"></i> code](https://github.com/iqm15/SUREOMT){: .btn}
 
 
 ## Talks
 
-* September 2022, Efficient statistical testing for high-dimensional model (FAST-BIG) workshop, *Inria, Paris*
-* August 2022, International Conference on Multiple Comparison Procedures, *Bremem, Germany*
-* June 2022, Journées des Statistiques, *Lyon, France*
-* April 2022, Rencontres Jeunes Statisticiens, *Porquerolles, France*
-* March 2022, Post-selection inference for genomic and neuroimaging data workshop, *Institut Mathématique de Toulouse, Toulouse, France*
-* February 2022, Young Statisticians and Probabilists day, *Institut Henri Poincaré, Paris, France*
-* November 2021, PhD students seminar at LPSM (Groupe de travail des thésard), *Sorbonne Université, Paris, France*
+* September 2022, __Efficient statistical testing for high-dimensional model (FAST-BIG) workshop__, *Inria, Paris*
+* August 2022, __International Conference on Multiple Comparison Procedures__, *Bremem, Germany*
+* June 2022, __Journées des Statistiques__, *Lyon, France*
+* April 2022, __Rencontres Jeunes Statisticiens__, *Porquerolles, France*
+* March 2022, __Post-selection inference for genomic and neuroimaging data workshop__, *Institut Mathématique de Toulouse, Toulouse, France*
+* February 2022, __Young Statisticians and Probabilists day__, *Institut Henri Poincaré, Paris, France*
+* November 2021, __PhD students seminar at LPSM (Groupe de travail des thésard)__, *Sorbonne Université, Paris, France*
 
 
 
