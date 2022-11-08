@@ -1,6 +1,8 @@
  Since January 2021, I am a PhD candidate in statistics at Sorbonne University (Paris), in the Probavility and Statistics Lab ([LPSM](https://www.lpsm.paris/)). I work under the supervision of [Etienne Roquain](https://etienneroquain-81.webself.net/) (LPSM) and Sebastian Döhler (Hochschule Darmstadt). 
 
-My current research interests are about mutliple testing in the context of discrete testing or online testing. 
+My current research interests are about mutliple testing. More specifically, my thesis research aims to propose new approaches ensuring control of the false discovery proportion either in probability or in expectation while taking into account various constraints or structures that are inherent to modern
+data sets such as sequentiality or discreteness. 
+
 
 For more information about my education you can find my complete cv [here].
 
