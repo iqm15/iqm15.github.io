@@ -4,7 +4,7 @@ My current research interests are about mutliple testing. More specifically, my 
 data sets such as sequentiality or discreteness. 
 
 
-For more information about my education you can find my complete cv [here].
+For more information about my education you can find my complete cv [here]({{ site.url }}{{ site.baseurl }}/assets/docs/meah_cv.pdf).
 
 ## Publications
 
