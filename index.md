@@ -9,19 +9,19 @@ You can contact me at iqraa.meah@sorbonne-universite.fr.
 ## Education 
 For detailed information about my education you can find my complete cv [here]({{ site.url }}{{ site.baseurl }}/assets/docs/meah_cv.pdf).
 
-## Publications
-### Preprints
+## Publication
+### Preprint
 * __Online multiple testing with super-uniformity reward__. Döhler, S. Meah, I. Roquain, E.  (2021)  
 [<i class="fas fa-file-pdf"></i> arXiv preprint](https://arxiv.org/abs/2110.01255){: .btn}  [<i class="fab fa-github"></i> code](https://github.com/iqm15/SUREOMT){: .btn}
 
 ## Talks
-* September 2022, __Efficient statistical testing for high-dimensional model (FAST-BIG) workshop__, *Inria, Paris*
-* August 2022, __International Conference on Multiple Comparison Procedures__, *Bremem, Germany*
-* June 2022, __Journées des Statistiques__, *Lyon, France*
-* April 2022, __Rencontres Jeunes Statisticiens__, *Porquerolles, France*
-* March 2022, __Post-selection inference for genomic and neuroimaging data workshop__, *Institut Mathématique de Toulouse, Toulouse, France*
-* February 2022, __Young Statisticians and Probabilists day__, *Institut Henri Poincaré, Paris, France*
-* November 2021, __PhD students seminar at LPSM (Groupe de travail des thésard)__, *Sorbonne Université, Paris, France*
+* September 2022, [Efficient statistical testing for high-dimensional model (ANR FAST-BIG) workshop](https://project.inria.fr/fastbig/workshop-fast-big-30-septembre-2022/), *Inria, Paris*
+* August 2022, [International Conference on Multiple Comparison Procedures](https://www.mcp-conference.org/), *Bremem, Germany*
+* June 2022, [Journées des Statistiques](https://jds22.sciencesconf.org/), *Lyon, France*
+* April 2022, [Rencontres Jeunes Statisticiens](https://rjs2022.sciencesconf.org/), *Porquerolles, France*
+* March 2022, [Post-selection inference for genomic and neuroimaging data workshop (ANR SansSouci)](https://www.math.univ-toulouse.fr/~pneuvial/sanssouci.html), *Institut Mathématique de Toulouse, Toulouse, France*
+* February 2022, [Young Statisticians and Probabilists day](https://www.sfds.asso.fr/fr/jeunes_statisticiens/manifestations/journees_ysp/564-accueil_ysp/), *Institut Henri Poincaré, Paris, France*
+* November 2021, [PhD students seminar at LPSM (Groupe de travail des thésard)](https://www.lpsm.paris/seminaires/gtt/index), *Sorbonne Université, Paris, France*
 
 ## Teaching duties
 ### Fall semester 2022 at Sorbonne Université
