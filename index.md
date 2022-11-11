@@ -6,15 +6,15 @@ My current projects are about the estimation of the proportion of null in the se
 
 You can contact me at iqraa.meah@sorbonne-universite.fr.
 
-## Publications
+## Education 
+For detailed information about my education you can find my complete cv [here]({{ site.url }}{{ site.baseurl }}/assets/docs/meah_cv.pdf).
 
+## Publications
 ### Preprints
 * __Online multiple testing with super-uniformity reward__. Döhler, S. Meah, I. Roquain, E.  (2021)  
 [<i class="fas fa-file-pdf"></i> arXiv preprint](https://arxiv.org/abs/2110.01255){: .btn}  [<i class="fab fa-github"></i> code](https://github.com/iqm15/SUREOMT){: .btn}
 
-
 ## Talks
-
 * September 2022, __Efficient statistical testing for high-dimensional model (FAST-BIG) workshop__, *Inria, Paris*
 * August 2022, __International Conference on Multiple Comparison Procedures__, *Bremem, Germany*
 * June 2022, __Journées des Statistiques__, *Lyon, France*
@@ -24,7 +24,6 @@ You can contact me at iqraa.meah@sorbonne-universite.fr.
 * November 2021, __PhD students seminar at LPSM (Groupe de travail des thésard)__, *Sorbonne Université, Paris, France*
 
 ## Teaching duties
-
 ### Fall semester 2022 at Sorbonne Université
 * Statistics and linear models in R (practical sessions) for first year master students in actuarial (M1 ISUP).
 * Data science in Python (practical sessions) for first year bachelor students in maths
@@ -33,12 +32,8 @@ You can contact me at iqraa.meah@sorbonne-universite.fr.
 * Linear models (exercice class) for first year master students in actuarial (M1 ISUP).
 * Data science in Python (practical sessions) for first year bachelor students in maths.
 
-## Activities
+## Scientific activities
 * Member of the *[The Young Statisticians Group](https://www.sfds.asso.fr/fr/jeunes_statisticiens/468-les_jeunes_statisticiens/)* in the French Statistical Society (SFDS)
-
-
-## Education 
-For detailed information about my education you can find my complete cv [here]({{ site.url }}{{ site.baseurl }}/assets/docs/meah_cv.pdf).
 
 ## Personnal interests 
 During my free time I like to paint and look for nice vintage thrift shops in Paris.
