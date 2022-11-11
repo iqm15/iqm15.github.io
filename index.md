@@ -1,6 +1,7 @@
  Since January 2021, I am a Ph.D. candidate in statistics at Sorbonne University (Paris) in the Probability and Statistics Lab ([LPSM](https://www.lpsm.paris/)). I work under the supervision of Sebastian Döhler (Hochschule Darmstadt) and [Etienne Roquain](https://etienneroquain-81.webself.net/) (LPSM). 
 
 My current research interests are about multiple testing (MT). More specifically, my thesis research aims to propose new approaches ensuring control of the false discovery proportion either in probability or in expectation while accounting for various structures that are inherent to modern data sets. These structures can deal with the inner nature of the p-values, for instance when the p-values are discrete they are more difficult to test. It can also deal with the way data are collected, for instance, when data are collected in an online fashion the p-values are only available one at a time so the use of classic MT procedures is not possible.
+
 My current projects are about the estimation of the proportion of null in the setting where p-values are discrete, and about deriving consistent probabilistic bounds for the false discovery proportion for nested rejection sets. 
 
 You can contact me at iqraa.meah@sorbonne-universite.fr.
