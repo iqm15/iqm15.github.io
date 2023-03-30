@@ -4,8 +4,6 @@ My current research interests are about multiple testing (MT). More specifically
 
 My current projects are about the estimation of the proportion of null in the setting where p-values are discrete, and about deriving consistent probabilistic upper bounds of the false discovery proportion for nested rejection sets. 
 
-You can contact me at iqraa.meah@sorbonne-universite.fr.
-
 ## Education 
 For detailed information about my education you can find my complete cv [here]({{ site.url }}{{ site.baseurl }}/assets/docs/meah_cv.pdf).
 
