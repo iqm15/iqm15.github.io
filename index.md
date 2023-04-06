@@ -1,8 +1,11 @@
- Since January 2021, I am a Ph.D. candidate in statistics at Sorbonne University (Paris) in the Probability and Statistics Lab ([LPSM](https://www.lpsm.paris/)). I work under the supervision of [Sebastian Döhler](https://fbmn.h-da.de/doehler-sebastian) (Hochschule Darmstadt) and [Etienne Roquain](https://etienneroquain-81.webself.net/) (LPSM). 
+ Since January 2021, I am a Ph.D. candidate in statistics between Sorbonne University (Paris) (in the Probability and Statistics Lab [LPSM](https://www.lpsm.paris/)), and Hochschule Darmstadt (Germany). I work under the supervision of [Sebastian Döhler](https://fbmn.h-da.de/doehler-sebastian) (Hochschule Darmstadt) and [Etienne Roquain](https://etienneroquain-81.webself.net/) (LPSM). 
 
-My current research interests are about multiple testing (MT). More specifically, my thesis research aims to propose new approaches ensuring control of the false discovery proportion either in probability or in expectation while accounting for various structures that are inherent to modern data sets. These structures can deal with the inner nature of the p-values, for instance when the p-values are discrete they are more difficult to test. It can also deal with the way data are collected, for instance, when data are collected in an online fashion the p-values are only available one at a time so the use of classic MT procedures is not possible.
+My current research interests are about multiple testing (MT). More specifically, my thesis research aims to propose new approaches ensuring control of the false discovery proportion either in probability (uniform tail bounds) or in expectation (false discovery rate) while accounting for various constraint and structures such as:  
+* data observed in an online fashion;
+* discrete data, e.g., coming from contingency tables; 
+* pre-ordered data, e.g., when a natural order either emerges from the same data or is fixed by advance.
 
-My current projects are about the estimation of the proportion of null in the setting where p-values are discrete, and about deriving consistent probabilistic upper bounds of the false discovery proportion for nested rejection sets. 
+My current projects are about the estimation of the null proportion in the setting where p-values are discrete, and about deriving consistent probabilistic upper bounds on the false discovery proportion for nested rejection sets in different setting involving online or preordered data. 
 
 ## Education 
 For detailed information about my education you can find my complete cv [here]({{ site.url }}{{ site.baseurl }}/assets/docs/meah_cv.pdf).
