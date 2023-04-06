@@ -1,11 +1,11 @@
- Since January 2021, I am a Ph.D. candidate in statistics between Sorbonne University (Paris) (in the Probability and Statistics Lab [LPSM](https://www.lpsm.paris/)), and Hochschule Darmstadt (Germany). I work under the supervision of [Sebastian Döhler](https://fbmn.h-da.de/doehler-sebastian) (Hochschule Darmstadt) and [Etienne Roquain](https://etienneroquain-81.webself.net/) (LPSM). 
+Since January 2021, I am a Ph.D. candidate in statistics between Sorbonne University (Paris) (in the Probability and Statistics Lab LPSM), and Hochschule Darmstadt (Germany). I work under the supervision of Sebastian Döhler (Hochschule Darmstadt) and Etienne Roquain (LPSM).
 
-My current research interests are about multiple testing (MT). More specifically, my thesis research aims to propose new approaches ensuring control of the false discovery proportion either in probability (uniform tail bounds) or in expectation (false discovery rate) while accounting for various constraint and structures such as:  
+My current research interests are multiple testing (MT). More specifically, my thesis research aims to propose new approaches ensuring control of the false discovery proportion either in probability (uniform tail bounds) or in expectation (false discovery rate) while accounting for various constraints and structures such as:
 * data observed in an online fashion;
-* discrete data, e.g., coming from contingency tables; 
+* discrete data, e.g., coming from contingency tables;
 * pre-ordered data, e.g., when a natural order either emerges from the same data or is fixed by advance.
 
-My current projects are about the estimation of the null proportion in the setting where p-values are discrete, and about deriving consistent probabilistic upper bounds on the false discovery proportion for nested rejection sets in different setting involving online or preordered data. 
+My current projects are about the estimation of the null proportion in the setting where p-values are discrete, and about deriving consistent probabilistic upper bounds on the false discovery proportion for nested rejection sets in different settings involving online or preordered data.
 
 ## Education 
 For detailed information about my education you can find my complete cv [here]({{ site.url }}{{ site.baseurl }}/assets/docs/meah_cv.pdf).
