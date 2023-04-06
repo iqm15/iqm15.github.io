@@ -9,7 +9,7 @@ For detailed information about my education you can find my complete cv [here]({
 
 ## Publication
 ### Preprint
-* __Online multiple testing with super-uniformity reward__. Döhler, S. Meah, I. Roquain, E.  (2021)  (Under major revision at EJS)
+* __Online multiple testing with super-uniformity reward__. Döhler, S. Meah, I. Roquain, E.  (2021)  (Under revision at EJS)
 [<i class="fas fa-file-pdf"></i> arXiv preprint](https://arxiv.org/abs/2110.01255){: .btn}  [<i class="fab fa-github"></i> code](https://github.com/iqm15/SUREOMT){: .btn}
 
 ## Talks
