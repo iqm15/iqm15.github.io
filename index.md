@@ -23,7 +23,7 @@ For detailed information about my education you can find my complete cv [here]({
 * June 2022, [Journées des Statistiques](https://jds22.sciencesconf.org/), *Lyon, France*
 * April 2022, [Rencontres Jeunes Statisticiens](https://rjs2022.sciencesconf.org/), *Porquerolles, France*
 * March 2022, [Post-selection inference for genomic and neuroimaging data workshop (ANR SansSouci)](https://www.math.univ-toulouse.fr/~pneuvial/sanssouci.html), *Institut Mathématique de Toulouse, Toulouse, France*
-* February 2022, [Young Statisticians and Probabilists day](https://www.sfds.asso.fr/fr/jeunes_statisticiens/manifestations/journees_ysp/564-accueil_ysp/), *Institut Henri Poincaré, Paris, France*
+* February 2022, [Young Statisticians and Probabilists day](https://www.sfds.asso.fr/fr/jeunes_statisticiens/manifestations/journees_ysp/563-archive_ysp/), *Institut Henri Poincaré, Paris, France*
 * November 2021, [PhD students seminar at LPSM (Groupe de travail des thésard)](https://www.lpsm.paris/seminaires/gtt/index), *Sorbonne Université, Paris, France*
 
 ## Teaching duties
