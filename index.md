@@ -17,7 +17,7 @@ For detailed information about my education you can find my complete cv [here]({
 [<i class="fas fa-file-pdf"></i> arXiv preprint](https://arxiv.org/abs/2110.01255){: .btn}  [<i class="fab fa-github"></i> code](https://github.com/iqm15/SUREOMT){: .btn}
 
 ## Talks
-* May 2023, [Workshop on Statistical Data Science](https://fbmn.h-da.de/diso/en/wsds), *Darmstadt, Germany*
+* May 2023, [Workshop on Statistical Data Science](https://fbmn.h-da.de/dis/en/wsds), *Darmstadt, Germany*
 * September 2022, [Efficient statistical testing for high-dimensional model (ANR FAST-BIG) workshop](https://project.inria.fr/fastbig/workshop-fast-big-30-septembre-2022/), *Inria, Paris*
 * August 2022, [International Conference on Multiple Comparison Procedures](https://www.mcp-conference.org/), *Bremem, Germany*
 * June 2022, [Journées des Statistiques](https://jds22.sciencesconf.org/), *Lyon, France*
