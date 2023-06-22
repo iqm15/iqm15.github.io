@@ -12,7 +12,7 @@ For detailed information about my education you can find my complete cv [here]({
 
 ## Publication
 ### Preprints
-* __False discovery proportion envelopes with consistency__. I. M, G. Blanchard, E. Roquain (2023)[arXiv preprint](https://arxiv.org/abs/2306.07819)
+* __False discovery proportion envelopes with consistency__. I. M, G. Blanchard, E. Roquain (2023) [arXiv preprint](https://arxiv.org/abs/2306.07819)
 * __Online multiple testing with super-uniformity reward__. S. Döhler, I. M, E. Roquain  (2021)  (Under revision at EJS)
 [<i class="fas fa-file-pdf"></i> arXiv preprint](https://arxiv.org/abs/2110.01255){: .btn}  [<i class="fab fa-github"></i> code](https://github.com/iqm15/SUREOMT){: .btn}
 
