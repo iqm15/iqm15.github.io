@@ -31,7 +31,7 @@ For detailed information about my education you can find my complete cv [here]({
 * November 2021, [PhD students seminar at LPSM (Groupe de travail des thésard)](https://www.lpsm.paris/seminaires/gtt/index), *Sorbonne Université, Paris, France*
 
 ## Scientific activities
-* Member of the *[The Young Statisticians Group](https://www.sfds.asso.fr/fr/jeunes_statisticiens/468-les_jeunes_statisticiens/)* in the French Statistical Society (SFDS)
+* Member of the *[The Young Statisticians Group](https://www.sfds.asso.fr/fr/jeunes_statisticiens/468-les_jeunes_statisticiens/)* in the French Statistical Society (SFDS).\\
 Organizer of the 11th [11th Young Statisticians and Probabilists day](https://www.sfds.asso.fr/fr/jeunes_statisticiens/manifestations/journees_ysp/564-accueil_ysp/) at Institut Henri Poincaré, Paris.
 
 ## Teaching duties
