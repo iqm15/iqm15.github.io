@@ -17,7 +17,7 @@ For detailed information about my education you can find my complete cv [here]({
 [<i class="fas fa-file-pdf"></i> arXiv preprint](https://arxiv.org/abs/2110.01255){: .btn}  [<i class="fab fa-github"></i> code](https://github.com/iqm15/SUREOMT){: .btn}
 
 ### Upcoming preprint
-*__A unified class of null proportion estimators with plug-in FDR control__. S. Döhler, I. M (2023)
+* __A unified class of null proportion estimators with plug-in FDR control__. S. Döhler, I. M (2023)
 
 ## Talks
 * July 2023, [Journées des Statistiques](https://jds2023.sciencesconf.org/), *Brussels, Belgium*
