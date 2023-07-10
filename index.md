@@ -5,8 +5,6 @@ My current research interests are multiple testing (MT). More specifically, my t
 * discrete data, e.g., coming from contingency tables;
 * pre-ordered data, e.g., when a natural order either emerges from the same data or is fixed by advance.
 
-My current projects are about the estimation of the null proportion in the setting where p-values are discrete, and about deriving consistent probabilistic upper bounds on the false discovery proportion for nested rejection sets in different settings involving online or preordered data.
-
 ## Education 
 For detailed information about my education you can find my complete cv [here]({{ site.url }}{{ site.baseurl }}/assets/docs/meah_cv.pdf).
 
