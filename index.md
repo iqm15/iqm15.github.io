@@ -17,6 +17,8 @@ For detailed information about my education you can find my complete cv [here]({
 
 
 ## Talks
+* October 2023, [Statistics workshop](https://project.inria.fr/fastbig/stats-workshop-october-19th-2023/), *Institut Henri Poincaré, Paris, France*
+* October 2023, [Séminaire de statistiques](https://imag.umontpellier.fr/?page_id=526&idseance=5320), INRAE/Université de Montpellier, *Montpellier, France*
 * July 2023, [Journées des Statistiques](https://jds2023.sciencesconf.org/), *Brussels, Belgium*
 * May 2023, [Workshop on Statistical Data Science](https://fbmn.h-da.de/dis/en/wsds), *Darmstadt, Germany*
 * September 2022, [Efficient statistical testing for high-dimensional model (ANR FAST-BIG) workshop](https://project.inria.fr/fastbig/workshop-fast-big-30-septembre-2022/), *Inria, Paris*
