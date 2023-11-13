@@ -17,6 +17,7 @@ For detailed information about my education you can find my complete cv [here]({
 
 
 ## Talks
+* November 2023, [Statistics seminar](https://stat.unipd.it/ricerca/academic-year-20232024), University of Padova, *Padova, Italy*
 * October 2023, [Statistics workshop](https://project.inria.fr/fastbig/stats-workshop-october-19th-2023/), *Institut Henri Poincaré, Paris, France*
 * October 2023, [Séminaire de statistiques](https://imag.umontpellier.fr/?page_id=526&idseance=5320), INRAE/Université de Montpellier, *Montpellier, France*
 * July 2023, [Journées des Statistiques](https://jds2023.sciencesconf.org/), *Brussels, Belgium*
