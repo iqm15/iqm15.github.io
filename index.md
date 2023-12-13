@@ -1,9 +1,13 @@
-Since January 2021, I am a Ph.D. candidate in statistics between Sorbonne University (Paris) (in the Probability and Statistics Lab LPSM), and Hochschule Darmstadt (Germany). I work under the supervision of [Sebastian Döhler](https://fbmn.h-da.de/doehler-sebastian) (Hochschule Darmstadt) and [Etienne Roquain](https://etienneroquain-81.webself.net/) (LPSM).
+Hi, Welcome to my webpage!
 
-My current research interests are multiple testing (MT). More specifically, my thesis research aims to propose new approaches ensuring control of the false discovery proportion either in probability (uniform tail bounds) or in expectation (false discovery rate) while accounting for various constraints and structures such as:
+
+
+In November 2023 I completed my PhD in statistics under the supervision of [Etienne Roquain](https://etienneroquain-81.webself.net/) (LPSM, Sorbonne Université) and [Sebastian Döhler](https://fbmn.h-da.de/doehler-sebastian) (Hochschule Darmstadt). My thesis research lies in the field of multiple testing: the goal is to propose new approaches ensuring control of the false discovery proportion either in probability (uniform tail bounds) or in expectation (false discovery rate) while accounting for various constraints and structures such as
 * data observed in an online fashion;
 * discrete data, e.g., coming from contingency tables;
 * pre-ordered data, e.g., when a natural order either emerges from the same data or is fixed by advance.
+
+You can find my thesis manuscript [here]({{ site.url }}{{ site.baseurl }}/assets/docs/thesis_sr.pdf) and the defense slides [here]({{ site.url }}{{ site.baseurl }}/assets/docs/defense-slides.pdf).
 
 ## Education 
 For detailed information about my education you can find my complete cv [here]({{ site.url }}{{ site.baseurl }}/assets/docs/meah_cv.pdf).
