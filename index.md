@@ -16,7 +16,7 @@ For detailed information about my education you can find my complete cv [here]({
 ### Preprints
 * __A unified class of null proportion estimators with plug-in FDR control__. S. Döhler, I. M (2023) (In review for Biometrical Journal) [arXiv Preprint](https://arxiv.org/abs/2307.13557)
 * __False discovery proportion envelopes with consistency__. I. M, G. Blanchard, E. Roquain (2023) (In review for JMLR) [arXiv preprint](https://arxiv.org/abs/2306.07819)
-* __Online multiple testing with super-uniformity reward__. S. Döhler, I. M, E. Roquain  (2021)  (In review for EJS)
+* __Online multiple testing with super-uniformity reward__. S. Döhler, I. M, E. Roquain  (2021). To appear in Electronic Journal of Statistics.
 [<i class="fas fa-file-pdf"></i> arXiv preprint](https://arxiv.org/abs/2110.01255){: .btn}  [<i class="fab fa-github"></i> code](https://github.com/iqm15/SUREOMT){: .btn}
 
 
