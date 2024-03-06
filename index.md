@@ -48,8 +48,8 @@ Organizer of the 12th [12th Young Statisticians and Probabilists day](https://ww
 * Linear models (exercice class) for first year master students in actuarial (M1 ISUP).
 * Data science in Python (practical sessions) for first year bachelor students in maths.
 
-## Personnal interests 
-During my free time I like to paint and look for nice vintage thrift shops in Paris.
+<>## Personnal interests 
+<>During my free time I like to paint and look for nice vintage thrift shops in Paris.
 
 ---
 Contact me at iqraa dot meah at inserm dot fr
