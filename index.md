@@ -9,17 +9,12 @@ In November 2023 I completed my PhD in statistics under the supervision of [Etie
 
 You can find my thesis manuscript [here]({{ site.url }}{{ site.baseurl }}/assets/docs/thesis_sr.pdf) and the defense slides [here]({{ site.url }}{{ site.baseurl }}/assets/docs/defense-slides.pdf).
 
-## Education 
-For detailed information about my education you can find my complete cv [here]({{ site.url }}{{ site.baseurl }}/assets/docs/meah_cv.pdf).
-
 ## Publication
 * __Online multiple testing with super-uniformity reward__. S. Döhler, I. M, E. Roquain  (2021). Electronic Journal of Statistics. Vol. 18, No. 1, 1293-1354, 2024.
 
 ### Preprints
 * __A unified class of null proportion estimators with plug-in FDR control__. S. Döhler, I. M (2023) (In review for Biometrical Journal) [arXiv Preprint](https://arxiv.org/abs/2307.13557)
 * __False discovery proportion envelopes with consistency__. I. M, G. Blanchard, E. Roquain (2023) (In review for JMLR) [arXiv preprint](https://arxiv.org/abs/2306.07819)
-
-
 
 ## Talks
 * November 2023, [Statistics seminar](https://stat.unipd.it/ricerca/academic-year-20232024), University of Padova, *Padova, Italy*
@@ -39,16 +34,6 @@ For detailed information about my education you can find my complete cv [here]({
 * Member of the *[The Young Statisticians Group](https://www.sfds.asso.fr/fr/jeunes_statisticiens/468-les_jeunes_statisticiens/)* in the French Statistical Society (SFDS).\
 Organizer of the 11th [11th Young Statisticians and Probabilists day](https://www.sfds.asso.fr/fr/jeunes_statisticiens/manifestations/journees_ysp/563-archive_ysp/) at Institut Henri Poincaré, Paris.\
 Organizer of the 12th [12th Young Statisticians and Probabilists day](https://www.sfds.asso.fr/fr/jeunes_statisticiens/manifestations/journees_ysp/564-accueil_ysp/) at Institut Henri Poincaré, Paris.
-
-## Teaching duties
-### Fall semester 2022 at Sorbonne Université
-* Statistics and linear models in R (practical sessions) for first year master students in actuarial (M1 ISUP).
-* Data science in Python (practical sessions) for first year bachelor students in maths
-
-### Fall semester 2021 at Sorbonne Université
-* Linear models (exercice class) for first year master students in actuarial (M1 ISUP).
-* Data science in Python (practical sessions) for first year bachelor students in maths.
-
 
 ---
 Contact me at iqraa dot meah at inserm dot fr
