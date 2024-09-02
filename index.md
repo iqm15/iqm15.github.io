@@ -11,10 +11,10 @@ You can find my thesis manuscript [here]({{ site.url }}{{ site.baseurl }}/assets
 
 ## Publication
 * __Online multiple testing with super-uniformity reward__. S. Döhler, I. M, E. Roquain  (2021). Electronic Journal of Statistics. Vol. 18, No. 1, 1293-1354, 2024.
-
+* __False discovery proportion envelopes with consistency__. I. M, G. Blanchard, E. Roquain (2023). To appear in Journal of Machine Learning Research. [arXiv preprint](https://arxiv.org/abs/2306.07819)
 ### Preprints
 * __A unified class of null proportion estimators with plug-in FDR control__. S. Döhler, I. M (2023) (In review for Biometrical Journal) [arXiv Preprint](https://arxiv.org/abs/2307.13557)
-* __False discovery proportion envelopes with consistency__. I. M, G. Blanchard, E. Roquain (2023) (In review for JMLR) [arXiv preprint](https://arxiv.org/abs/2306.07819)
+
 
 ## Talks
 * November 2023, [Statistics seminar](https://stat.unipd.it/ricerca/academic-year-20232024), University of Padova, *Padova, Italy*
