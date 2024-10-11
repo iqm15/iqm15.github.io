@@ -1,6 +1,6 @@
 Hi, welcome to my webpage!
 
-I am a postdoctoral researcher working in the [CRESS METHODS team](https://cress-umr1153.fr/fr/teams/methods/) under the supervision of Raphaël Porcher and François Petit. My current work aims to assess the effect of lung transplantation for certain diseases by performing emulated target trials. Another focus is to look for ways to improve lung association scores using causal inference tools.
+I am a postdoctoral researcher working in the [CRESS METHODS team](https://cress-umr1153.fr/fr/teams/methods/) under the supervision of Raphaël Porcher and François Petit. My current work aims to assess the effect of lung transplantation for cystic fibrosis by performing an emulated target trials implying the use of causal inference methods. This work is carried on real data provided by the United Network of Organ Sharing [(UNOS)](https://unos.org/policy/lung/).
 
 In November 2023 I completed my PhD in statistics under the supervision of [Etienne Roquain](https://etienneroquain-81.webself.net/) (LPSM, Sorbonne Université) and [Sebastian Döhler](https://fbmn.h-da.de/doehler-sebastian) (Hochschule Darmstadt). My thesis research lies in the field of multiple testing: the goal is to propose new approaches ensuring control of the false discovery proportion either in probability (uniform tail bounds) or in expectation (false discovery rate) while accounting for various constraints and structures such as
 * data observed in an online fashion;
@@ -14,8 +14,7 @@ You can find my thesis manuscript [here]({{ site.url }}{{ site.baseurl }}/assets
 * __False discovery proportion envelopes with consistency__. I. M, G. Blanchard, E. Roquain (2023). To appear in Journal of Machine Learning Research. [arXiv preprint](https://arxiv.org/abs/2306.07819)
   
 ### Preprints
-* __A unified class of null proportion estimators with plug-in FDR control__. S. Döhler, I. M (2023) (In review for Biometrical Journal) [arXiv Preprint](https://arxiv.org/abs/2307.13557)
-
+* __A unified class of null proportion estimators with plug-in FDR control__. S. Döhler, I. M (2023) [arXiv Preprint](https://arxiv.org/abs/2307.13557)
 
 ## Talks
 * November 2023, [Statistics seminar](https://stat.unipd.it/ricerca/academic-year-20232024), University of Padova, *Padova, Italy*
