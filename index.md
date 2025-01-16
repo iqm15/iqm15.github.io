@@ -5,6 +5,8 @@ I am a postdoctoral researcher working in the [CRESS METHODS team](https://cress
 ## Internship offer 
 With François Petit, we are looking for an intern to work on the theoretical properties of sequential emulated trials. You can find more details in [the job offer]({{ site.url }}{{ site.baseurl }}/assets/docs/offre_de_stage.pdf). 
 
+
+## Background
 In November 2023 I completed my PhD in statistics under the supervision of [Etienne Roquain](https://etienneroquain-81.webself.net/) (LPSM, Sorbonne Université) and [Sebastian Döhler](https://fbmn.h-da.de/doehler-sebastian) (Hochschule Darmstadt). My thesis research lies in the field of multiple testing: the goal is to propose new approaches ensuring control of the false discovery proportion either in probability (uniform tail bounds) or in expectation (false discovery rate) while accounting for various constraints and structures such as
 * data observed in an online fashion;
 * discrete data, e.g., coming from contingency tables;
