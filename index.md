@@ -22,6 +22,7 @@ You can find my thesis manuscript [here]({{ site.url }}{{ site.baseurl }}/assets
 * __A unified class of null proportion estimators with plug-in FDR control__. S. Döhler, I. M (2023) [arXiv Preprint](https://arxiv.org/abs/2307.13557)
 
 ## Talks
+* January 2024, [Statistics seminar](https://lama-umr8050.fr/evenements/seminaire_de_probabilites_et_statistiques/evaluating_the_effect_of_lung_transplantation), *Université Gustave Eiffel, Paris* 
 * November 2024, [International Seminar on Selective Inference (ISSI)](https://www.selectiveinferenceseminar.com/), Online 
 * November 2023, [Statistics seminar](https://stat.unipd.it/ricerca/academic-year-20232024), University of Padova, *Padova, Italy*
 * October 2023, [Statistics workshop](https://project.inria.fr/fastbig/stats-workshop-october-19th-2023/), *Institut Henri Poincaré, Paris, France*
