@@ -24,7 +24,7 @@ You can find my thesis manuscript [here]({{ site.url }}{{ site.baseurl }}/assets
 ## Talks
 * January 2025, [Rencontres statistiques du CEREMADE](https://www.ceremade.dauphine.fr/dokuwiki/rsc:start), *Université Paris Dauphine, Paris*
 * January 2025, [Statistics seminar](https://lama-umr8050.fr/evenements/seminaire_de_probabilites_et_statistiques/evaluating_the_effect_of_lung_transplantation), *Université Gustave Eiffel, Paris* 
-* November 2024, [International Seminar on Selective Inference (ISSI)](https://drive.google.com/file/d/1O8eJG311YCpGmA3Fugk9LZmeqaM6jlx3/view), Online 
+* November 2024, [International Seminar on Selective Inference (ISSI)], Online 
 * November 2023, [Statistics seminar](https://stat.unipd.it/ricerca/academic-year-20232024), University of Padova, *Padova, Italy*
 * October 2023, [Statistics workshop](https://project.inria.fr/fastbig/stats-workshop-october-19th-2023/), *Institut Henri Poincaré, Paris, France*
 * October 2023, [Séminaire de statistiques](https://imag.umontpellier.fr/?page_id=526&idseance=5320), INRAE/Université de Montpellier, *Montpellier, France*
