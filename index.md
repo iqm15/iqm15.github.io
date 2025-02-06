@@ -2,8 +2,8 @@ Hi, welcome to my webpage!
 
 I am a postdoctoral researcher working in the [CRESS METHODS team](https://cress-umr1153.fr/fr/teams/methods/) under the supervision of Raphaël Porcher and François Petit. My current research work aims to assess the effect of lung transplantation on the survival time of patient diagnosed with cystic fibrosis. This study is designed as an emulated target trial, implying the use of causal inference methods to estimate the treatment effect. The research is conducted using real-world data provided by the United Network for Organ Sharing [(UNOS)](https://unos.org/policy/lung/).
 
-## Internship offer 
-With François Petit, we are looking for an intern to work on the theoretical properties of sequential emulated trials. You can find more details in [the job offer]({{ site.url }}{{ site.baseurl }}/assets/docs/offre_de_stage.pdf). 
+<>## Internship offer 
+<>With François Petit, we are looking for an intern to work on the theoretical properties of sequential emulated trials. You can find more details in [the job **offer]({{ site.url }}{{ site.baseurl }}/assets/docs/offre_de_stage.pdf). 
 
 
 ## Background
