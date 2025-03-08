@@ -37,8 +37,8 @@ You can find my thesis manuscript [here]({{ site.url }}{{ site.baseurl }}/assets
 
 ## Scientific activities
 * Member of the *[The Young Statisticians Group](https://www.sfds.asso.fr/fr/jeunes_statisticiens/468-les_jeunes_statisticiens/)* in the French Statistical Society (SFDS).\
-Organizer of the 11th [11th Young Statisticians and Probabilists day](https://www.sfds.asso.fr/fr/jeunes_statisticiens/manifestations/journees_ysp/563-archive_ysp/) at Institut Henri Poincaré, Paris.\
-Organizer of the 12th [12th Young Statisticians and Probabilists day](https://www.sfds.asso.fr/fr/jeunes_statisticiens/manifestations/journees_ysp/564-accueil_ysp/) at Institut Henri Poincaré, Paris.
+Organizer of the [11th Young Statisticians and Probabilists day](https://www.sfds.asso.fr/fr/jeunes_statisticiens/manifestations/journees_ysp/563-archive_ysp/) at Institut Henri Poincaré, Paris.\
+Organizer of the [12th Young Statisticians and Probabilists day](https://www.sfds.asso.fr/fr/jeunes_statisticiens/manifestations/journees_ysp/564-accueil_ysp/) at Institut Henri Poincaré, Paris.
 
 ---
 Contact me at iqraa dot meah at inserm dot fr
