@@ -41,6 +41,7 @@ Organizer of the [11th Young Statisticians and Probabilists day](https://www.sfd
 Organizer of the [12th Young Statisticians and Probabilists day](https://www.sfds.asso.fr/fr/jeunes_statisticiens/manifestations/journees_ysp/564-accueil_ysp/) at Institut Henri Poincaré, Paris.
 
 ## Teaching 
+* One day introduction to multiple testing to 2nd year engineering student from *Ecolde d'Ingenieur Denis Diderot*
 
 
 ---
