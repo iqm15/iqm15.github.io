@@ -1,0 +1,151 @@
+---
+title: "Cours EIDD 4 ocotbre"
+output: html_document
+date: "2024-10-02"
+---
+
+############################################################################################################################################################
+[[EXERCICE 1]] Rappels sur les tests simples 
+
+Executez le bloc de code suivant permettant de générer des données avec du signal.
+```{r}
+n <- 100 # nombres de tirages aléatoires 
+X <- rnorm(n) # tirage aléatoire de n Gaussiennes i.i.d
+mu <- 0.5 # signal qu'on va ajouter dans les données
+X <- X + mu
+```
+
+Partons du principe que vous n'avez pas connaissance du fait qu'on a ajouté du signal dans les données.
+On aimerait effectuer un test d'hypothèse pour vérifier si les données contiennent du signal. Plus précisément, on aimerait faire un test pour juger si la moyenne de la Gaussienne qui génère les données est égale à 0 ou est supérieure à 0.
+[QUESTION] Pour commencer, écrivez les hypothèses nulles et alternatives dans ce contexte :
+
+H_0 : 
+
+H_1 : 
+
+[QUESTION] Compléter le code suivant pour calculer la statistique de test.
+```{r}
+#### A COMPLETER #######
+t_test <- 
+########################
+```
+
+Executez le bloc suivant pour construire un graphique qui positionne la valeur de la statistique de test sur la densité de la loi normale.
+```{r}
+lim <- t_test + 5
+x <- seq(-lim, lim, 0.1)
+y <- dnorm(x)
+plot(x, y)
+points(t_test, y = 0, col = "red", pch = 8, cex = 1.5)
+```
+L'étoile en rouge correspond à la valeur de la statistique de test. 
+[QUESTION] L'hypothèse nulle semble-t-elle crédible à première vue ? 
+
+
+Pour appuyer notre décision, nous allons calculer la p-valeur : 
+```{r}
+pvalue <- 1 - pnorm(t_test)
+pvalue 
+```
+[QUESTION] Quelle conclusion pouvez-vous tirer ? 
+
+############################################################################################################################################################
+[[EXERCICE 2]] Le problème de la multiplicité 
+
+
+Exécutez le bloc de code suivant, qui génère observations indépendantes qui vont donner lieu à m tests indépendants. Tous ces tests ne correspondent qu'à de vraies hypothèses nulles. Pour le moment, il n'y a aucun signal.
+```{r}
+m = 1000 # nombre de tests qu'on va effectuer 
+observations <- rnorm(m) 
+pvalues <- 1 - pnorm(observations)
+```
+
+Exécutez le bloc de code suivant qui affiche les p-valeur (cercle) et le niveau de test alpha (ligne rouge).
+```{r}
+alpha = 0.05
+plot(pvalues)
+lines(x=1:m, y = rep(alpha, m), col = "red", lwd = 2)
+```
+[QUESTION] Comment identifier les erreurs de type I (les fausses découvertes) sur ce graphique ? 
+
+
+[QUESTION] Compléter le code suivant qui permet de voir le nombre de fausses découvertes lorsqu'on augmente le nombre de tests effectué.
+```{r}
+m_seq <- seq(1000, 100000, 100)
+nb_faussesdec_seq <- c()
+
+for (m in m_seq) {
+  observations <- rnorm(m) 
+  pvalues <- 1 - pnorm(observations)
+  
+  ######## PARTIE A COMPLETER #########
+  nb_faussesdec <- 
+  #####################################
+  
+  nb_faussesdec_seq <- c(nb_faussesdec_seq, nb_faussesdec)
+}
+```
+
+Exécutez le bloc suivant pour afficher la courbe du nombre de fausses découvertes en fonction du nombre de tests effectués.
+```{r}
+plot(m_seq, nb_faussesdec_seq)
+```
+[QUESTION] (3 questions !) Comment augmente le nombre d'erreurs avec le nombre de tests effectués ? Donner une approximation numérique du coefficient directeur de la droite. Est-ce normal ? 
+
+############################################################################################################################################################
+[[EXERCICE 3]] FWER et procédure de Bonferroni
+
+[QUESTION] Compléter le bloc de code suivant pour compter le nombre de fausses découvertes quand on prend les décisions selon la procédure de Bonferroni. 
+```{r}
+alpha <- 0.05
+m_seq <- seq(1000, 100000, 100)
+nb_faussesdec_seq_fwer <- c()
+
+for (m in m_seq) {
+  observations <- rnorm(m) 
+  pvalues <- 1 - pnorm(observations)
+  
+  ############## PARTIE A COMPLETER #############
+  nb_faussesdec_fwer <- 
+  ###############################################
+  
+  nb_faussesdec_seq_fwer <- c(nb_faussesdec_seq_fwer, nb_faussesdec_fwer)
+}
+```
+
+```{r}
+plot(m_seq, nb_faussesdec_seq_fwer)
+```
+[QUESTION] Que constatez-vous par rapport au graphique précédent ?
+
+Cette fois, on ajoute du signal dans certaines des données. Il y a donc de fausses hypothèses nulles dans tous les tests effectués.
+[QUESTION] Complétez le bloc de code suivant pour compter le nombre de VRAIES découvertes quand on prend les décisions selon la procédure de Bonferroni. 
+```{r}
+pi0 = 1/2 # proportion de vraies nulles qu'il y aura parmis tous les tests 
+mu = 1.5
+alpha <- 0.05
+m_seq <- seq(1000, 100000, 100)
+nb_faussesdec_seq_fwer <- c()
+nb_vraiesdec_seq_fwer <- c()
+
+for (m in m_seq) {
+  true_indices <- c(rep(1, ceiling(m * (1 - pi0))), rep(0, m * pi0)) # indique quelles sont les fausses et vraies hypothèses nulles
+  observations <- rnorm(m) + mu * true_indices
+  pvalues <- 1 - pnorm(observations)
+  
+  # on compte les fausses découvertes 
+  nb_faussesdec_fwer <- sum(pvalues[true_indices == 0] <= (alpha/m))
+  
+  ######################### PARTIE A COMPLETER ####################
+  nb_vraiesdec_fwer <- 
+  #################################################################
+  
+  nb_faussesdec_seq_fwer <- c(nb_faussesdec_seq_fwer, nb_faussesdec_fwer)
+  nb_vraiesdec_seq_fwer <- c(nb_vraiesdec_seq_fwer, nb_vraiesdec_fwer)
+}
+```
+
+```{r}
+plot(m_seq, nb_vraiesdec_seq_fwer)
+```
+[QUESTION] Comment se comporte le nombre de vraies découvertes en fonction du nombre de tests effectués ? Est-ce normal ? 
