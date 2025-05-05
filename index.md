@@ -42,7 +42,7 @@ Organizer of the [12th Young Statisticians and Probabilists day](https://www.sfd
 
 ## Teaching 
 * One-day introduction to multiple testing for second-year engineering students at École d'ingénieur Denis Diderot.
-The course slides (in French) are available [here]({{ site.url }}{{ site.baseurl }}/assets/docs/tests_multiples_EIDD.pdf), and the illustrative exercises in R can be found [here]({{ site.url }}{{ site.baseurl }}/assets/docs/thesis_sr.pdf).
+The course slides (in French) are available [here]({{ site.url }}{{ site.baseurl }}/assets/docs/tests_multiples_EIDD.pdf), and the illustrative exercises in R can be found [here]({{ site.url }}{{ site.baseurl }}/assets/docs/cours_testmultiples_EIDD_eleve.Rmd).
 
 
 ---
