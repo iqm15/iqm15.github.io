@@ -40,5 +40,8 @@ You can find my thesis manuscript [here]({{ site.url }}{{ site.baseurl }}/assets
 Organizer of the [11th Young Statisticians and Probabilists day](https://www.sfds.asso.fr/fr/jeunes_statisticiens/manifestations/journees_ysp/563-archive_ysp/) at Institut Henri Poincaré, Paris.\
 Organizer of the [12th Young Statisticians and Probabilists day](https://www.sfds.asso.fr/fr/jeunes_statisticiens/manifestations/journees_ysp/564-accueil_ysp/) at Institut Henri Poincaré, Paris.
 
+## Teaching 
+
+
 ---
 Contact me at iqraa dot meah at inserm dot fr
