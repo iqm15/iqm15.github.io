@@ -1,8 +1,10 @@
 Hi, welcome to my webpage!
 
-I am a postdoctoral researcher working in the [CRESS METHODS team](https://cress-umr1153.fr/fr/teams/methods/) under the supervision of Raphaël Porcher and François Petit. My current research work aims to assess the effect of lung transplantation on the survival time of patient diagnosed with cystic fibrosis. This study is designed as an emulated target trial, implying the use of causal inference methods to estimate the treatment effect. The research is conducted using real-world data provided by the United Network for Organ Sharing [(UNOS)](https://unos.org/policy/lung/).
+I am an associate professor (maîtresse de conférence) at AgroParisTech in the [MIA](https://mia-ps.inrae.fr/) research unit and more precisely in the [SOLsTIS](https://mia-ps.inrae.fr/solstis) team.
 
 ## Background
+Prior to my current position I was a postdoctoral researcher working in the [CRESS METHODS team](https://cress-umr1153.fr/fr/teams/methods/) under the supervision of Raphaël Porcher and François Petit. My research work aimed to assess the effect of lung transplantation on the survival time of patient diagnosed with cystic fibrosis. This study was designed as an emulated target trial, implying the use of causal inference methods to estimate the treatment effect. The research was conducted using real-world data provided by the United Network for Organ Sharing [(UNOS)](https://unos.org/policy/lung/).
+
 In November 2023 I completed my PhD in statistics under the supervision of [Etienne Roquain](https://etienneroquain-81.webself.net/) (LPSM, Sorbonne Université) and [Sebastian Döhler](https://fbmn.h-da.de/doehler-sebastian) (Hochschule Darmstadt). My thesis research lies in the field of multiple testing: the goal is to propose new approaches ensuring control of the false discovery proportion either in probability (uniform tail bounds) or in expectation (false discovery rate) while accounting for various constraints and structures such as
 * data observed in an online fashion;
 * discrete data, e.g., coming from contingency tables;
