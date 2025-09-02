@@ -48,4 +48,4 @@ The course slides (in French) are available [here]({{ site.url }}{{ site.baseurl
 
 
 ---
-Contact me at iqraa dot meah at inserm dot fr
+Contact me at iqraa dot meah at agroparistech dot fr
