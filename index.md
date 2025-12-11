@@ -20,6 +20,7 @@ You can find my thesis manuscript [here]({{ site.url }}{{ site.baseurl }}/assets
 * __A unified class of null proportion estimators with plug-in FDR control__. S. Döhler, I. M (2023) [arXiv Preprint](https://arxiv.org/abs/2307.13557)
 
 ## Talks
+* December 2025, [Groupe de travail de statistiques](https://lmrs.univ-rouen.fr/fr/content/aligning-time-origins-observational-survival-studies-time-dependent-covariates), *LMRS, Rouen, France*
 * November 2025, [Interactive Mathematics day](https://www.fondation-hadamard.fr/fr/articles/2025/06/17/maths-csi-and-maths-sv-day-of-meeting-and-presentations/), *IHES, Bures-sur-Yvette, France*
 * February 2025, [Séminaire hebdomadaire](https://mia-ps.inrae.fr/node/730), *MIA, AgroParisTech* 
 * January 2025, [Rencontres statistiques du CEREMADE](https://www.ceremade.dauphine.fr/dokuwiki/rsc:start), *Université Paris Dauphine, Paris*
