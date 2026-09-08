@@ -46,7 +46,7 @@ Organizer of the [11th Young Statisticians and Probabilists day](https://www.sfd
 Organizer of the [12th Young Statisticians and Probabilists day](https://www.sfds.asso.fr/fr/jeunes_statisticiens/manifestations/journees_ysp/564-accueil_ysp/) at Institut Henri Poincaré, Paris.
 
 ## Teaching material
-* Transparents]({{ site.url }}{{ site.baseurl }}/assets/docs/slides/M2AAE2026-2027/slides_presentation.html) de présentation pour le M2 AAE. 
+* [Transparents]({{ site.url }}{{ site.baseurl }}/assets/docs/slides/M2AAE2026-2027/slides_presentation.html) de présentation pour le M2 AAE. 
 * [Transparents]({{ site.url }}{{ site.baseurl }}/assets/docs/slides/M2AAE2026-2027/slides-CM1-ACP-AFC-ACM.html) sur l'ACP, l'AFC et l'ACM pour le M2 AAE. 
 
 
