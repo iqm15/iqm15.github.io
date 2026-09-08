@@ -1,0 +1,64 @@
+/* Couleurs et typographie du projet initial ; dimensions adaptées à Reveal.js. */
+:root {
+  --ink: rgb(28, 33, 53);
+  --accent: rgb(235, 125, 0);
+  --teal: rgb(0, 134, 139);
+}
+.reveal { font-family: Georgia, serif; font-size: 28px; color: var(--ink); }
+.reveal .slides { text-align: left; }
+.reveal .slides section { box-sizing: border-box; }
+.reveal h1, .reveal h2, .reveal h3, .reveal h4 {
+  color: var(--ink); font-family: Georgia, serif; font-weight: normal;
+  text-transform: none; line-height: 1.16;
+}
+.reveal h2 { font-size: 39px; margin: 0 0 0.6em; }
+.reveal h3 { font-size: 30px; margin: 0.6em 0 0.4em; }
+.reveal .slides section h2::after {
+  content: ""; display: block; width: 100%; height: 2px;
+  background: var(--accent); margin-top: 0.28em;
+}
+.reveal p { font-size: inherit; line-height: 1.35; margin: 0.65em 0; }
+.reveal ul, .reveal ol { margin-left: 1.15em; line-height: 1.35; }
+.reveal li { margin-bottom: 0.45em; }
+.reveal li p { margin: 0.25em 0; }
+.reveal strong { font-weight: bold; }
+.reveal .columns {
+  display: flex !important; flex-wrap: nowrap; gap: 4%;
+  align-items: flex-start; width: 100%;
+}
+.reveal .columns > .column {
+  flex: 0 1 auto; min-width: 0; box-sizing: border-box;
+}
+.reveal .columns > .column > :first-child { margin-top: 0; }
+.reveal .columns > .column:not([style*="width"]) { width: 48%; }
+.reveal table { width: 100%; font-size: 0.91em; margin: 0.4em 0 0.6em; }
+.reveal table th, .reveal table td { padding: 0.24em 0.35em; vertical-align: middle; }
+.reveal table th { border-bottom: 2px solid var(--accent); }
+.reveal table td { border-bottom: 1px solid #d9dbe1; }
+.reveal .small-table table { font-size: 0.79em; }
+.reveal .small-table table th, .reveal .small-table table td { padding: 0.2em 0.28em; }
+.reveal section img { border: none; box-shadow: none; max-width: 100%; object-fit: contain; }
+.reveal img.plot { display: block; max-height: 440px; width: 100%; margin: 0 auto; }
+.reveal img.wide-plot { display: block; max-height: 420px; width: 100%; margin: 0.4em auto; }
+.reveal figure { margin: 0; }
+.reveal .small, .reveal .small p { font-size: 21px; line-height: 1.3; }
+.reveal .source { font-size: 20px; }
+.reveal .math.display { font-size: 0.98em; }
+.reveal mjx-container[jax="SVG"] > svg {
+  max-width: none !important; max-height: none !important; overflow: visible;
+}
+.reveal mjx-container[display="true"] { margin: 0.65em 0 !important; }
+.reveal .title-slide { text-align: center; }
+.reveal .title-slide h2 { display: none; }
+.reveal .title-slide p { text-align: center; margin: 0.65em 0; }
+.reveal .title-slide h3 { text-align: center; font-size: 36px; margin: 0.35em 0; }
+.reveal img.title-logo { width: 430px; height: 145px; margin: 0 auto 0.5em; }
+.reveal .title-rule { height: 2px; background: var(--accent); margin: 0.75em 0; }
+.reveal .progress { height: 5px; color: var(--accent); }
+.reveal .slide-number { font-size: 18px; background: white; color: var(--accent); }
+.reveal .controls { color: var(--accent); }
+.reveal a { color: #007c82; }
+.orange { color: var(--accent); }
+.green-inrae { color: var(--teal); }
+.center { text-align: center !important; }
+@media print { .reveal .slides section { overflow: visible !important; } }
