@@ -45,9 +45,9 @@ You can find my thesis manuscript [here]({{ site.url }}{{ site.baseurl }}/assets
 Organizer of the [11th Young Statisticians and Probabilists day](https://www.sfds.asso.fr/fr/jeunes_statisticiens/manifestations/journees_ysp/563-archive_ysp/) at Institut Henri Poincaré, Paris.\
 Organizer of the [12th Young Statisticians and Probabilists day](https://www.sfds.asso.fr/fr/jeunes_statisticiens/manifestations/journees_ysp/564-accueil_ysp/) at Institut Henri Poincaré, Paris.
 
-## Teaching 
-* One-day introduction to multiple testing for second-year engineering students at École d'ingénieur Denis Diderot.
-The course slides (in French) are available [here]({{ site.url }}{{ site.baseurl }}/assets/docs/tests_multiples_EIDD.pdf), and the illustrative exercises in R can be found [here]({{ site.url }}{{ site.baseurl }}/assets/docs/cours_testmultiples_EIDD_eleve.Rmd).
+## Teaching material
+* Transparents]({{ site.url }}{{ site.baseurl }}/assets/docs/slides/M2AAE2026-2027/slides_presentation.html) de présentation pour le M2 AAE. 
+* [Transparents]({{ site.url }}{{ site.baseurl }}/assets/docs/slides/M2AAE2026-2027/slides-CM1-ACP-AFC-ACM.html) sur l'ACP, l'AFC et l'ACM pour le M2 AAE. 
 
 
 ---
