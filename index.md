@@ -48,7 +48,7 @@ Organizer of the [12th Young Statisticians and Probabilists day](https://www.sfd
 ## Teaching material
 * [Transparents]({{ site.url }}{{ site.baseurl }}/assets/docs/slides/M2AAE2026-2027/slides_presentation.html) de présentation pour le M2 AAE. 
 * [Transparents]({{ site.url }}{{ site.baseurl }}/assets/docs/slides/M2AAE2026-2027/slides-CM1-ACP-AFC-ACM.html) sur l'ACP, l'AFC et l'ACM pour le M2 AAE.
-* [Transparents]({{ site.url }}{{ site.baseurl }}assets/docs/slides/M2AAE2026-2027/slides-CM2-plansXP.html) sur les plans d'expériences pour le M2 AAE.
+* [Transparents]({{ site.url }}{{ site.baseurl }}/assets/docs/slides/M2AAE2026-2027/slides-CM2-plansXP.html) sur les plans d'expériences pour le M2 AAE.
 
 
 ---
