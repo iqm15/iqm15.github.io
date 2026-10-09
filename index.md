@@ -18,6 +18,7 @@ You can find my thesis manuscript [here]({{ site.url }}{{ site.baseurl }}/assets
  * __A unified class of null proportion estimators with plug-in FDR control__. S. Döhler, I. M (2026). Computational Statistics and Data Analysis. [Link](https://doi.org/10.1016/j.csda.2026.108429)
   
 ### Preprint
+* __Formalization and consistency of clone-censor-weight__. I. M, C. Voinot, S. Michiels, N. Simon-Tillaux, C. Jouffroy-Zeller, I. Vaz-Luis, C. Berenfeld, F. Petit (2026).
 
 
 ## Talks
