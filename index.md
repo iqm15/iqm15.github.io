@@ -20,7 +20,7 @@ You can find my thesis manuscript [here]({{ site.url }}{{ site.baseurl }}/assets
 ### Preprint
 * __Formalization and consistency of clone-censor-weight__. I. M, C. Voinot, S. Michiels, N. Simon-Tillaux, C. Jouffroy-Zeller, I. Vaz-Luis, C. Berenfeld, F. Petit (2026).
 
-
+<!-- 
 ## Talks
 * December 2025, [Groupe de travail de statistiques](https://lmrs.univ-rouen.fr/fr/content/aligning-time-origins-observational-survival-studies-time-dependent-covariates), *LMRS, Rouen, France*
 * November 2025, [Interactive Mathematics day](https://www.fondation-hadamard.fr/fr/articles/2025/06/17/maths-csi-and-maths-sv-day-of-meeting-and-presentations/), *IHES, Bures-sur-Yvette, France*
@@ -45,6 +45,7 @@ You can find my thesis manuscript [here]({{ site.url }}{{ site.baseurl }}/assets
 * Member of the *[The Young Statisticians Group](https://www.sfds.asso.fr/fr/jeunes_statisticiens/468-les_jeunes_statisticiens/)* in the French Statistical Society (SFDS).\
 Organizer of the [11th Young Statisticians and Probabilists day](https://www.sfds.asso.fr/fr/jeunes_statisticiens/manifestations/journees_ysp/563-archive_ysp/) at Institut Henri Poincaré, Paris.\
 Organizer of the [12th Young Statisticians and Probabilists day](https://www.sfds.asso.fr/fr/jeunes_statisticiens/manifestations/journees_ysp/564-accueil_ysp/) at Institut Henri Poincaré, Paris.
+-->
 
 ## Teaching material
 * [Transparents]({{ site.url }}{{ site.baseurl }}/assets/docs/slides/M2AAE2026-2027/slides_presentation.html) de présentation pour le M2 AAE. 
